@@ -35,7 +35,7 @@ The application allows users to define the board size and initial queen position
 
 ### Run the Application
 ```bash
-python main.py
+python ML.py
 ---
 ```
 **Example:**
