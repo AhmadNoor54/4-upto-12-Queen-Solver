@@ -37,7 +37,7 @@ The application allows users to define the board size and initial queen position
 ```bash
 python main.py
 ---
-
+```
 **Example:**
 N = 8
 Initial Positions = 0 4 7 5 2 6 1 3
